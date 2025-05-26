@@ -1,0 +1,4 @@
+openai
+urllib3<2.0
+pydantic
+python-dotenv
