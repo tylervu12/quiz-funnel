@@ -136,7 +136,7 @@ quiz-chatbot/
       "primary_goal": "User's primary goal with AI",
       "tech_skill": "Beginner/Intermediate/Expert" 
       "tools": "User's current tech stack",
-      "budget": "$0-100" or ["$0-100", "$101-500"] 
+      "budget": "$0-100" 
     }
     ```
 *   **Response Body** (JSON on success - status 200):
